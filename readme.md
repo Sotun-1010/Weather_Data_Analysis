@@ -12,7 +12,7 @@
 
 ## Overview
 
-![screenshot](./Weather_Data_Images/importing_libraries.png)
+![screenshot](0_lUfnwRymkbGxpGgk.webp)
 
 In this project I analysed one of the trending datasets on [Kaggle](<https://www.kaggle.com>) about weather type classification. The dataset is synthetically generated to mimic weather data for classification tasks. It contained 13,200 rows and 11 columns. The columns involved data on humidity, temperature, atmospheric pressure, cloud cover and some other weather data metrics containing values having string, float and integer data types. The link to the dataset can be found [here](https://www.kaggle.com/datasets/nikhil7280/weather-type-classification/data).
 
@@ -27,3 +27,5 @@ In this project I analysed one of the trending datasets on [Kaggle](<https://www
 
 - GitHub [@Sotun-1010](https://github.com/Sotun-1010)
 - Twitter [@O_G_Sotun](https://twitter.com/O_G_Sotun?t=kRiO1YNhYKn8NJJnxTZ42A&s=03)
+- Portfolio Site [Ogunjirin Oluwasotun](https://www.datascienceportfol.io/oluwasotunogunjirind)
+- Medium [Ogunjirin Oluwasotun Goodness](https://medium.com/@oluwasotunogunjirin)
